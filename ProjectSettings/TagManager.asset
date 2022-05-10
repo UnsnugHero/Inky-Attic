@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Goal Lamp
+  - CameraBounds
+  - DeathZone
+  - Enemy
+  - Platform
+  - Spider
+  - Head
+  - PlayerFlashlight
+  - MovingPlatform
+  - Creep
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Platform
+  - Ladder
+  - Player
+  - DeathZone
+  - TopLadder
+  - CameraBounds
+  - EnemyProjectile
+  - Creep
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 385514839
+    locked: 0
+  - name: EnemyHole
+    uniqueID: 600436627
+    locked: 0
+  - name: Ladder
+    uniqueID: 4262205527
+    locked: 0
+  - name: Platforms
+    uniqueID: 2342250245
+    locked: 0
+  - name: Top Ladder
+    uniqueID: 3720117621
+    locked: 0
+  - name: Doors
+    uniqueID: 2176218951
+    locked: 0
+  - name: Hanging Lamp
+    uniqueID: 3354347885
+    locked: 0
+  - name: Goal Lamp
+    uniqueID: 1085386847
+    locked: 0
+  - name: Projectile
+    uniqueID: 1562270911
+    locked: 0
+  - name: Player
+    uniqueID: 243155603
+    locked: 0
